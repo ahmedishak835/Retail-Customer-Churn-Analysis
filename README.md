@@ -19,4 +19,4 @@ This project simulates a data consultancy engagement for a retail client. The go
 3. **Data Integrity:** Automated Python workflows were built to handle missing financial data, ensuring 100% reporting accuracy.
 
 ---
-*Developed as a mini portfolio project for Junior Data Consultant roles.*
+*Developed as a portfolio project for Junior Data Consultant roles.*
